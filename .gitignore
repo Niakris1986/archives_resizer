@@ -1,0 +1,22 @@
+# Архивы с курсами
+/сливы/
+download/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Архивы
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.part[0-9]*
